@@ -7,4 +7,4 @@ hello_world:
     - shared
   image: alpine:latest
   script:
-    - echo "Hello, World! AA!"
+    - echo "Hello, World! AA!!"
